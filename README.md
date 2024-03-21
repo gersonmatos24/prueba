@@ -8,5 +8,5 @@ Tengo 26 años y quiero ser programador web.
 matosgerson661@gmail.com
 
 ## Idiomas: 
-Español (nativo)
-Italiano
+- Español (nativo)
+- Italiano
