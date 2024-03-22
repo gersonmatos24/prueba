@@ -7,6 +7,12 @@ Tengo 26 años y quiero ser programador web.
 960798539
 matosgerson661@gmail.com
 
+
+## Technologies
+- HTML
+- CSS
+- JAVA SCRIPT
+
 ## Skills 
 - Liderazgo
 - Trabajo en equipo
@@ -15,4 +21,5 @@ matosgerson661@gmail.com
 ## Hobbies
 - Jugar futbol
 - Jugar play
+
 
