@@ -22,4 +22,7 @@ matosgerson661@gmail.com
 - Jugar futbol
 - Jugar play
 
+## Idiomas: 
+- Español (nativo)
+- Italiano
 
