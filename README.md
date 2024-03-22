@@ -11,3 +11,8 @@ matosgerson661@gmail.com
 - Liderazgo
 - Trabajo en equipo
 - Trabajo bajo presión
+
+## Hobbies
+- Jugar futbol
+- Jugar play
+
